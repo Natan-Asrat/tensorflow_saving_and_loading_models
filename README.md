@@ -1,3 +1,5 @@
+Blog: <https://natanasrat.com/blog/saving-and-loading-tensorflow-models/>
+
 # Project Description
 
 - In this project, i used CIFAR-10 dataset with a simple custom CNN model to train and save it using checkpoints.
